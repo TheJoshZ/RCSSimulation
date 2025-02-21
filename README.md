@@ -14,7 +14,7 @@ This simulation models a rigid body controlled by six thrusters positioned aroun
 ## 2.0 Physics
 Translational motion and rotational motion can be achieved via actuation shown on the diagram below:
 
-![RCS Diagram](images/rcs_diagram.png)
+![RCS Diagram](main/rcs_diagram.png)
 
 ## 3.0 Software
 *(Details to be added...)*
