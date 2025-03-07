@@ -21,3 +21,8 @@ A sample of the simulation script was attached above. Unfortunatly the ardunio c
 
 ## 4.0 Hardware
 The hardware section of the project consists of the ardunio controller, which is attached as an image. It is an ardunio mega with a few buttons for testing, and the two joysticks, each used for translation and rotation.
+
+![Hardware Image 1](images/P1.png)
+![Hardware Image 2](images/P2.png)
+![Hardware Image 3](images/P3.png)
+![Hardware Image 4](images/P4.png)
